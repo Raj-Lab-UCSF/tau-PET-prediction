@@ -13,6 +13,8 @@ $ conda activate brain
 $ jupyter-lab /notebooks
 ```
 
+You might also need [Cortography](https://github.com/Raj-Lab-UCSF/cortography) from the Raj Lab.
+
 ## Notebooks
 ### 1.Load_and_save_data.ipynb
     - Loads the data and save useful pickle files.
