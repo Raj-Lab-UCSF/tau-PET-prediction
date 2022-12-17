@@ -1,0 +1,19 @@
+name: brain
+dependencies:
+  - python=3 #or any python 3 should work
+  - pip
+  - nose # for unit testing
+  - nodejs==11.9.0
+  - pip:
+    - great-expectations
+    - nibabel
+    - nilearn
+    - nitime
+    - sklearn
+    - matplotlib
+    - numpy
+    - scipy
+    - pandas
+    - jupyter-lab
+    - ipywidgets
+    - statsmodels
